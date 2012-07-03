@@ -26,7 +26,7 @@ We support transparent and participatory processes for making Internet policy an
 
 **Innovation**: Protect the freedom to innovate and create without permission. Don’t block new technologies, and don’t punish innovators for their users' actions.
 
-**Privacy**: Protect privacy and defend everyone’s ability to control how their data and devices are used.
+**Privacy**: Protect privacy and anonymity. Defend everyone’s ability to control how their data and devices are used.
 
 
 (note: this document is formatted in [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
